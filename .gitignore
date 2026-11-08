@@ -1,6 +1,10 @@
-__pycache__/
 *.pyc
-.venv/
-venv/
-sample_data/*.tmp
 *.tmp
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+sample_data/*.tmp
+venv/
