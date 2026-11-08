@@ -1,0 +1,7 @@
+account,type,balance
+Checking,asset,2450.10
+Savings,asset,12000.00
+Index fund,asset,6800.55
+Car loan,loan,8900.00
+Credit card,credit card,(480.22)
+Student loan,debt,"$11,150.00"
